@@ -23,3 +23,13 @@
     float: right;
     background-color: #9999FF;
   }
+  .wrap {
+  width:1000px;
+  margin:0 auto;
+  background:#99c;
+  }
+  
+  .footer {
+  clear:both;
+  background:#cc9;
+  }
