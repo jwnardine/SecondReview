@@ -4,9 +4,22 @@
   padding: 4px;
   background-color: #C0C0C0;
 }
+
 .secondpart {
   margin: 0px;
   border: 0px;
   padding: 4px;
   background-color: #FF9999;
 }
+
+.columnone {
+  width: 70%;
+  float: left;
+  background-color: #CCFFCC;
+}
+
+.columntwo {
+    width: 30%;
+    float: right;
+    background-color: #9999FF;
+  }
