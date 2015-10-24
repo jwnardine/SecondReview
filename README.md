@@ -12,7 +12,7 @@ _This is Jon Nardine's second code review, which will test his ability to use di
 
 _Please visit this website:_
 
-https://github.com/jwnardine/SecondReview
+http://jwnardine.github.io/SecondReview
 
 _Not sure what to put here at this point, mainly because accessing index.html seems like a simple procedure which does not involve numerous steps, and all I have to offer are index.html, the CSS modifier file secondstyle.css, and the README.md._
 
